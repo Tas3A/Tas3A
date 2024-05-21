@@ -1,18 +1,12 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 
 
-Meu nome é Marcelo Paludetto
+Meu nome é Tayná 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+ಠ⁠_⁠ಠ
 
-### Você pode entrar em contato comigo :mailbox
-
-paludettomarcelo@gmail.com
-
-@marcelopaludetto
-
-![descrição do GIF](link GIF do Tenor)
 
 <!---
 Tas3A/Tas3A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
